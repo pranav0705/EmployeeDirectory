@@ -16,5 +16,4 @@ I built the app with keeping iPhones in mind but it should work perfectly fine i
 ## Frameworks/Dependencies Used
 No third party library is used
 
-## How long you spent on the Project
-I spent about 3 - 3.5 hours on building the project.
+
